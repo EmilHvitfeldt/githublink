@@ -13,3 +13,5 @@ Imports:
     clipr,
     desc,
     rstudioapi
+URL: https://github.com/EmilHvitfeldt/githublink
+BugReports: https://github.com/EmilHvitfeldt/githublink/issues
